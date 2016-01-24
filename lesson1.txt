@@ -1,0 +1,3 @@
+Lesson 1 Reflections:
+1. How did viewing the different versions help you spot the bug?
+It helped me track the changes I made between the previous version and the current version that may have caused the bug.
