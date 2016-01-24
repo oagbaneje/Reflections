@@ -1,0 +1,5 @@
+Reflections from Lesson 2:
+How many commits do you think the new repository contains? 0
+A commit is a snapshot of a Git repository.
+What command could you use to find out?
+git log
